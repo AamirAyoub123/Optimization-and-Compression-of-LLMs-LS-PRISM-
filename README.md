@@ -200,7 +200,7 @@ python benchmark_tasks.py \
 
 This project is open-source and available for educational and research purposes.
 
-* **Llama 3.1 Community License applies to the base model weights.*
+* **Llama 3.1 Community License applies to the base model weights.**
 
 ---
 
