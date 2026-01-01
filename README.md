@@ -153,7 +153,7 @@ Follow this step-by-step guide to set up and launch the entire application start
 ## 1. Setup Environment
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AamirAyoub123/LS-PRISM.git
+git clone [https://github.com/AamirAyoub123/LS-PRISM.git](https://github.com/AamirAyoub123/Optimization-and-Compression-of-LLMs-LS-PRISM-.git)
 cd LS-PRISM
 
 # 2. Create Conda environment 
